@@ -1,0 +1,15 @@
+---
+pt:
+  spree:
+    chimpy:
+      subscribed_label: Subscrever a newsletter
+      admin_subscribed_label: Subscrito na newsletter
+      subscribe_title: Subscreve a newsletter
+      subscribed: Subscrito
+      uncategorized: Sem categoria
+      email:
+        label: Email
+        placeholder: Introduza o seu email
+      subscriber:
+        success: Obrigado! Subscrito com sucesso!
+        failure: Ocorreu um erro no processo de subscrição
